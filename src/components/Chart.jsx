@@ -34,6 +34,10 @@ const Chart = () => {
       axisLabel: {
         formatter: '{value} kg',
       },
+      axisLine: {
+        show: true,
+      },
+
       min: 40,
       max: 110,
       splitNumber: 3,
