@@ -37,7 +37,7 @@ const BarChart = () => {
 
     //represent tooltip
     tooltip: {
-      tigger: 'axis',
+      trigger: 'axis',
     },
 
     //this is clickable so that you can filter out which bar is you want to show
