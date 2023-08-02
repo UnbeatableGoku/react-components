@@ -35,6 +35,11 @@ const BarChart = () => {
       },
     },
 
+    //represent tooltip
+    tooltip: {
+      tigger: 'axis',
+    },
+
     //this is clickable so that you can filter out which bar is you want to show
     visualMap: {
       //shows which data colors represents in bar at the bottom of graph
