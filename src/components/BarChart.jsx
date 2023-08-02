@@ -136,7 +136,6 @@ const BarChart = () => {
           //data of markline
           data: [
             {
-              name: 'normal',
               yAxis: `4`,
               lineStyle: {
                 type: 'solid',
@@ -144,7 +143,6 @@ const BarChart = () => {
               },
             },
             {
-              name: 'pre-diabetic',
               yAxis: `8`,
               lineStyle: {
                 type: 'solid',
@@ -152,7 +150,6 @@ const BarChart = () => {
               },
             },
             {
-              name: 'diabetic',
               yAxis: `10`,
               lineStyle: {
                 type: 'solid',
@@ -160,7 +157,6 @@ const BarChart = () => {
               },
             },
             {
-              name: 'high-diabetic',
               yAxis: `12`,
               lineStyle: {
                 type: 'solid',
